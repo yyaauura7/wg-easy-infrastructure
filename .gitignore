@@ -1,0 +1,3 @@
+# Ignore WireGuard config and database
+config/
+.env
